@@ -44,7 +44,7 @@ to use a JavaScript framework like React.
 
 ## Key Outcomes
 
-* Identify specific instances data-type from real-world contexts
+* Identify specific instances' data-types from real-world contexts
 * Use convenient data manipulation methods provided by ES6: arrow function,
   rest / spread / default parameters, etc.
 * Use Array "enumerator" methods: `map()`, `find()`, `filter()`, `reduce()`
