@@ -37,7 +37,7 @@ might find cool ways to apply them to what you already know.
 
 ## The Future
 
-You'll definitely want to have these lessons' techniques on your side when you
+You'll definitely want to have these lessons techniques on your side when you
 start making really complicated JavaScript applications &mdash; as will happen
 when you start writing object-oriented JavaScript **or** when you start trying
 to use a JavaScript framework like React.
